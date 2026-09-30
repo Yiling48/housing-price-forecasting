@@ -1,0 +1,7 @@
+horizon,model,M1_MAPE,M2_MAPE,M3_MAPE
+longer_horizon,VAR,2.33,2.43,1.53
+longer_horizon,SVR,3.59,3.37,0.65
+longer_horizon,LSTM,2.02,1.85,0.60
+one_quarter_ahead,VAR,0.22,0.59,0.87
+one_quarter_ahead,SVR,0.68,0.88,0.46
+one_quarter_ahead,LSTM,0.78,0.82,0.64
